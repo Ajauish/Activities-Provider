@@ -1,4 +1,4 @@
-# Rocktivities 🚀
+# Activities Provider 🚀
 a way to play voice chat games on discord
 
 
