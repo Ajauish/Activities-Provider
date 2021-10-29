@@ -1,3 +1,4 @@
+![Header](https://media.discordapp.net/attachments/898538530857431050/902303046464327712/Roles.png?width=526&height=158)
 ## Activities Provider
 ##### Provides you 9-different activities to use:
 
@@ -29,4 +30,3 @@
 With fast & high-quality activities service 
 we hope you enjoy. 😉
 
-![Header](https://media.discordapp.net/attachments/898538530857431050/902303046464327712/Roles.png?width=526&height=158)
